@@ -2,7 +2,7 @@
 
 **Version:** 1.0 — research and independent review complete; deployment not started  
 **Research date:** September 9, 2026, America/Chicago  
-**Owner:** Shaquille Oatmeal  
+**Owner:** Project owner  
 **Decision:** proceed to a bounded hardware-validation pilot, not an unconditional purchase or production migration.
 
 ## 1. Executive recommendation
@@ -257,7 +257,7 @@ These unknowns do not prevent this PRD from being complete; they prevent claimin
 
 ## 15. Source register and verification status
 
-Primary NVIDIA, PNY, Hugging Face and OpenClaw sources linked throughout were consulted September 9, 2026. Installed local docs were also inspected at `/opt/homebrew/lib/node_modules/openclaw/docs/providers/{vllm,huggingface}.md` and `gateway/local-models.md`.
+Primary NVIDIA, PNY, Hugging Face and OpenClaw sources linked throughout were consulted September 9, 2026. Installed local provider documentation for vLLM, Hugging Face, and local models was also inspected.
 
 Additional references:
 
